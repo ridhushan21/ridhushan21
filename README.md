@@ -90,6 +90,7 @@ Hi, I'm Ridhushan Chandrakumar!
 ## 🌐 Connect With Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ridhushan-chandrakumar-727592326/)
+
 📧 ridushan123@gmail.com
 
 ---

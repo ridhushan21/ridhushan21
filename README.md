@@ -47,11 +47,11 @@ Hi, I'm Ridhushan Chandrakumar!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhushan21\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridhushan21\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ridhushan21\&theme=tokyonight\&hide_border=true)
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridhushan21\&theme=tokyonight\&utcOffset=5.5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhushan21\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridhushan21\&theme=tokyonight)
 
 
 ## 🌐 Connect With Me

@@ -89,8 +89,8 @@ Hi, I'm Ridhushan Chandrakumar!
 
 ## 🌐 Connect With Me
 
-* 📧 [ridushan123@gmail.com](mailto:ridushan123@gmail.com)
-* 💼 Add your LinkedIn here
+🔗 [LinkedIn](https://www.linkedin.com/in/ridhushan-chandrakumar-727592326/)
+📧 ridushan123@gmail.com
 
 ---
 

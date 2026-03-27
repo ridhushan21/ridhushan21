@@ -34,6 +34,14 @@ Hi, I'm Ridhushan Chandrakumar!
 
 ---
 
+## 🌐 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ridhushan-chandrakumar-727592326/)
+
+📧 ridushan123@gmail.com
+
+---
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -87,11 +95,7 @@ Hi, I'm Ridhushan Chandrakumar!
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridhushan21\&theme=tokyonight)
 
 
-## 🌐 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ridhushan-chandrakumar-727592326/)
-
-📧 ridushan123@gmail.com
 
 ---
 

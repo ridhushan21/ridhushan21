@@ -45,6 +45,15 @@ Hi, I'm Ridhushan Chandrakumar!
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhushan21\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ridhushan21\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhushan21\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+
 ## 🌐 Connect With Me
 
 * 📧 [ridushan123@gmail.com](mailto:ridushan123@gmail.com)
